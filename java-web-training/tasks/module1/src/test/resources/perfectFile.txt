@@ -1,0 +1,9 @@
+author : Tech N9ne ; title : Uralya ; duration : 248 ; style : rap ; format : cdda ; comp: low
+author : 2PAC ; title : Baby don't cry ; duration : 259 ; style : rap ; format : cdda ; comp: low
+author : 50Cent ; title : Candy shop ; duration : 208 ; style : rap ; format : cdda ; comp: low
+author : Metallica ; title : Master of puppets ; duration : 513 ; style : rock ; format : mp3 ; comp: mid; id3tags : year * 1986
+author : Iron Maiden ; title : The Trooper ; duration : 251 ; style : rock ; format : mp3 ; comp: mid; id3tags : year * 1983
+author : Dope ; title : Best for me ; duration : 201 ; style : rock ; format : mp3 ; comp: mid; id3tags : year * 2009
+author : Britney Spears ; title : Oops!...I Did It Again ; duration : 251 ; style : pop ; format : mp3 ; comp : high ; id3tags : year * 2000
+author : Madonna ; title : Hung Up ; duration : 326 ; style : pop ; format : mp3 ; comp : high ; id3tags : year * 2005
+author : Katy Perry ; title : Never Really Over ; duration : 240 ; style : pop ; format : mp3 ; comp : high ; id3tags : year * 2019

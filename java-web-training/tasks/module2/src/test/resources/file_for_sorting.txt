@@ -1,0 +1,4 @@
+    This is the first sentence!
+    We start here a new paragraph. There are a lot of words to sort. And the second paragraph contains three sentences.
+    The third paragraph has only two sentences!!! It is too little!
+    And now the biggest paragraph is starting. Four sentences. And lots of words... We need this example to show all the sorting features.

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <xsd:element name="gems" type="gemsType">
+        <xsd:unique name="id">
+            <xsd:selector xpath="./gem"/>
+            <xsd:field xpath="@id"/>
+        </xsd:unique>
+    </xsd:element>
+
+    <xsd:complexType name="visualParametersType">
+        <xsd:sequence>
+            <xsd:element type="xsd:string" name="color"/>
+            <xsd:element type="xsd:int" name="transparency"/>
+            <xsd:element type="xsd:int" name="numberOfFaces"/>
+        </xsd:sequence>
+    </xsd:complexType>
+
+    <xsd:complexType name="valueType">
+        <xsd:simpleContent>
+            <xsd:extension base="xsd:double">
+                <xsd:attribute type="dimensionType" name="dimension" use="required"/>
+            </xsd:extension>
+        </xsd:simpleContent>
+    </xsd:complexType>
+
+    <xsd:simpleType name="dimensionType" final="restriction">
+        <xsd:restriction base="xsd:string">
+            <xsd:enumeration value="carat"/>
+            <xsd:enumeration value="gram"/>
+        </xsd:restriction>
+    </xsd:simpleType>
+
+    <xsd:simpleType name="preciousnessType" final="restriction">
+        <xsd:restriction base="xsd:string">
+            <xsd:enumeration value="precious"/>
+            <xsd:enumeration value="semiprecious"/>
+        </xsd:restriction>
+    </xsd:simpleType>
+
+    <xsd:complexType name="gemsType">
+        <xsd:sequence maxOccurs="unbounded">
+            <xsd:element type="gemType" name="gem"/>
+        </xsd:sequence>
+    </xsd:complexType>
+
+    <xsd:complexType name="gemType">
+        <xsd:sequence>
+            <xsd:element type="xsd:string" name="name"/>
+            <xsd:element type="preciousnessType" name="preciousness"/>
+            <xsd:element type="xsd:string" name="origin"/>
+            <xsd:element type="visualParametersType" name="visualParameters"/>
+            <xsd:element type="valueType" name="value"/>
+        </xsd:sequence>
+        <xsd:attribute type="xsd:long" name="id" use="required"/>
+    </xsd:complexType>
+</xsd:schema>

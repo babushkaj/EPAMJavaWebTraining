@@ -1,0 +1,9 @@
+author : Tech N9ne ; title : Uralya ; duration : -248 ; style : rap ; format : cdda ; comp: lo
+author : 2PAC ; title : Baby don't cry ; duration : 259 ; style : rap ; format :  ; comp: low
+ : 50Cent ; title : Candy shop ; duration : notNumber ; style : rap ; format : cdda ; comp: low
+author : Metallica ; title : Master of puppets ; durationn : 513 ; style : roc ; format : mp3 ; comp: mid; id3tags : year * 1986 , album * Master of puppets
+author : Iron Maiden ; title :  ; duration : -251 ; style : rock ;  : mp3 ; comp: mid; id3tags : year * 1986 , album * Master of puppets
+author : Dope ; title : Best for me ; duration : 201 ; style : rock ; format : mp ; comp: mid; id3tags : year * 1986 , album * Master of puppets
+author : Britney Spears ; d : 251 ; style : pop ; format : mp3 ; comp: hi
+author : Madonna ;  : Hung Up ; duration : notNumber ; style : pop ; format : mp33 ; comp: high
+ : Katy Perry ;  : Never Really Over ; duration : 240 ; style : pop ; format : mp3 ; comp: high

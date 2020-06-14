@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gems>
+    <gem id="1">
+        <name>Diamond</name>
+        <preciousness>precious</preciousness>
+        <origin>Botswana</origin>
+        <visualParameters>
+            <color>colorless</color>
+            <transparency>92</transparency>
+            <numberOfFaces>15</numberOfFaces>
+        </visualParameters>
+        <value dimension="carat">7.21</value>
+    </gem>
+    <gem id="2">
+        <name>Amethyst</name>
+        <preciousness>semiprecious</preciousness>
+        <origin>Russia</origin>
+        <visualParameters>
+            <color>purple</color>
+            <transparency>87</transparency>
+            <numberOfFaces>14</numberOfFaces>
+        </visualParameters>
+        <value dimension="carat">90</value>
+    </gem>
+    <gem id="3">
+        <name>Topaz</name>
+        <preciousness>semiprecious</preciousness>
+        <origin>Ukraine</origin>
+        <visualParameters>
+            <color>light-blue</color>
+            <transparency>90</transparency>
+            <numberOfFaces>13</numberOfFaces>
+        </visualParameters>
+        <value dimension="carat">348</value>
+    </gem>
+    <gem id="4">
+        <name>Ruby</name>
+        <preciousness>precious</preciousness>
+        <origin>Thailand</origin>
+        <visualParameters>
+            <color>red</color>
+            <transparency>90</transparency>
+            <numberOfFaces>12</numberOfFaces>
+        </visualParameters>
+        <value dimension="carat">22</value>
+    </gem>
+    <gem id="5">
+        <name>Garnet</name>
+        <preciousness>semiprecious</preciousness>
+        <origin>Russia</origin>
+        <visualParameters>
+            <color>orange</color>
+            <transparency>84</transparency>
+            <numberOfFaces>11</numberOfFaces>
+        </visualParameters>
+        <value dimension="carat">54</value>
+    </gem>
+    <gem id="6">
+        <name>Alexandrite</name>
+        <preciousness>precious</preciousness>
+        <origin>Russia</origin>
+        <visualParameters>
+            <color>green</color>
+            <transparency>90</transparency>
+            <numberOfFaces>10</numberOfFaces>
+        </visualParameters>
+        <value dimension="carat">3.4</value>
+    </gem>
+
+    <gem id="7">
+        <name>Emerald</name>
+        <preciousness>precious</preciousness>
+        <origin>Colombia</origin>
+        <visualParameters>
+            <color>green</color>
+            <transparency>75</transparency>
+            <numberOfFaces>11</numberOfFaces>
+        </visualParameters>
+        <value dimension="carat">6.66</value>
+    </gem>
+    <gem id="8">
+        <name>Sapphire</name>
+        <preciousness>precious</preciousness>
+        <origin>India</origin>
+        <visualParameters>
+            <color>blue</color>
+            <transparency>87</transparency>
+            <numberOfFaces>12</numberOfFaces>
+        </visualParameters>
+        <value dimension="carat">4.32</value>
+    </gem>
+    <gem id="9">
+        <name>Chrysoberyl</name>
+        <preciousness>precious</preciousness>
+        <origin>Australia</origin>
+        <visualParameters>
+            <color>brown</color>
+            <transparency>77</transparency>
+            <numberOfFaces>13</numberOfFaces>
+        </visualParameters>
+        <value dimension="carat">7.12</value>
+    </gem>
+    <gem id="10">
+        <name>Aquamarine</name>
+        <preciousness>semiprecious</preciousness>
+        <origin>Brazil</origin>
+        <visualParameters>
+            <color>blue</color>
+            <transparency>90</transparency>
+            <numberOfFaces>14</numberOfFaces>
+        </visualParameters>
+        <value dimension="carat">9.43</value>
+    </gem>
+    <gem id="11">
+        <name>Ametrine</name>
+        <preciousness>semiprecious</preciousness>
+        <origin>Bolivia</origin>
+        <visualParameters>
+            <color>yellow+purple</color>
+            <transparency>78</transparency>
+            <numberOfFaces>15</numberOfFaces>
+        </visualParameters>
+        <value dimension="carat">15.12</value>
+    </gem>
+
+    <gem id="12">
+        <name>Apatite</name>
+        <preciousness>semiprecious</preciousness>
+        <origin>Russia</origin>
+        <visualParameters>
+            <color>blue</color>
+            <transparency>44</transparency>
+            <numberOfFaces>14</numberOfFaces>
+        </visualParameters>
+        <value dimension="carat">40.5</value>
+    </gem>
+    <gem id="13">
+        <name>Opal</name>
+        <preciousness>semiprecious</preciousness>
+        <origin>Australia</origin>
+        <visualParameters>
+            <color>black</color>
+            <transparency>84</transparency>
+            <numberOfFaces>13</numberOfFaces>
+        </visualParameters>
+        <value dimension="carat">456.7</value>
+    </gem>
+    <gem id="14">
+        <name>Rhinestone</name>
+        <preciousness>semiprecious</preciousness>
+        <origin>France</origin>
+        <visualParameters>
+            <color>colorless</color>
+            <transparency>96</transparency>
+            <numberOfFaces>12</numberOfFaces>
+        </visualParameters>
+        <value dimension="carat">65.1</value>
+    </gem>
+
+    <gem id="15">
+        <name>Moonstone</name>
+        <preciousness>semiprecious</preciousness>
+        <origin>India</origin>
+        <visualParameters>
+            <color>blue+silver</color>
+            <transparency>80</transparency>
+            <numberOfFaces>11</numberOfFaces>
+        </visualParameters>
+        <value dimension="carat">12.2</value>
+    </gem>
+    <gem id="16">
+        <name>Tourmaline</name>
+        <preciousness>semiprecious</preciousness>
+        <origin>Spain</origin>
+        <visualParameters>
+            <color>yellow</color>
+            <transparency>92</transparency>
+            <numberOfFaces>10</numberOfFaces>
+        </visualParameters>
+        <value dimension="carat">9.87</value>
+    </gem>
+</gems>

@@ -1,0 +1,1 @@
+maxWeight : 15000 ; maxArea : 30

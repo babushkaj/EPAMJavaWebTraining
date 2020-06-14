@@ -1,0 +1,9 @@
+carName : Reno Laguna ; carWeight : 1750 ; carArea : 6 ; type : PASSENGER_CAR ; passCount : 4
+carName : Smart ForTwo ; carWeight : 750 ; carArea : 3 ; type : PASSENGER_CAR ; passCount : 1
+carName : Dodge Ram1500 ; carWeight : 2654 ; carArea : 8 ; type : PASSENGER_CAR ; passCount : 4
+carName : Seat Toledo ; carWeight : 1630 ; carArea : 6 ; type : PASSENGER_CAR ; passCount : 4
+carName : Lada X-Ray ; carWeight : 1823 ; carArea : 7 ; type : PASSENGER_CAR ; passCount : 4
+carName : Hyundai Porter ; carWeight : 2220 ; carArea : 9 ; type : TRUCK ; cargo : 1000 ; isFull : true
+carName : МАЗ 5616 ; carWeight : 10000 ; carArea : 20 ; type : TRUCK ; cargo : 20000 ; isFull : false
+carName : MAN TGS ; carWeight : 9500 ; carArea : 19 ; type : TRUCK ; cargo : 16000 ; isFull : true
+

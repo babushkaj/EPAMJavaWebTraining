@@ -1,0 +1,9 @@
+carName : 1 ; carWeight : 1000 ; carArea : 2 ; type : PASSENGER_CAR ; passCount : 4
+carName : 2 ; carWeight : 2000 ; carArea : 4 ; type : PASSENGER_CAR ; passCount : 1
+carName : 3 ; carWeight : 3000 ; carArea : 6 ; type : PASSENGER_CAR ; passCount : 4
+carName : 4 ; carWeight : 4000 ; carArea : 8 ; type : PASSENGER_CAR ; passCount : 4
+carName : 5 ; carWeight : 5000 ; carArea : 10 ; type : PASSENGER_CAR ; passCount : 4
+carName : 6 ; carWeight : 6000 ; carArea : 12 ; type : TRUCK ; cargo : 0 ; isFull : false
+carName : 7 ; carWeight : 7000 ; carArea : 14 ; type : TRUCK ; cargo : 0 ; isFull : false
+carName : 8 ; carWeight : 8000 ; carArea : 16; type : TRUCK ; cargo : 0 ; isFull : false
+
